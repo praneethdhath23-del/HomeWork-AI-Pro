@@ -44,7 +44,7 @@ Add screenshots here.
 
 ## 🚀 Live Demo
 
-https://your-website-link.com
+https://home-work-ai-pro.vercel.app/
 
 ---
 
@@ -65,13 +65,13 @@ https://your-website-link.com
 Clone the repository
 
 ```bash
-git clone https://github.com/yourusername/homework-ai-pro.git
+git clone https://github.com/praneethdhath23-del/HomeWork-AI-Pro.git
 ```
 
 Open the project
 
 ```bash
-cd homework-ai-pro
+cd HomeWork-AI-Pro
 ```
 
 Launch
